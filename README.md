@@ -4,9 +4,11 @@ This repository presents an exploratory data analysis (EDA) conducted on a compr
 Objectives
 Explore roller coaster characteristics and performance metrics.
 Analyze trends in roller coaster design and introduction over the years.
+
 Investigate correlations between height, speed, and g-force.
 Identify top locations with roller coasters exhibiting high average speeds.
 Extract insights to enhance roller coaster design for maximum sales and safety.
+
 Dataset
 The dataset contains detailed information on various aspects of roller coasters, including speed, material type, height, year of introduction, age, geographical coordinates, and performance metrics. This comprehensive dataset enables thorough analysis and exploration of roller coaster characteristics and trends.
 
